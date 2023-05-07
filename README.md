@@ -3,7 +3,7 @@
 -🖥️ Estou Estudando Desenvolvimento de Software 
 <div>
   <a href="https://github.com/CauaQroz/">
-<a href="https://github.com/CauaQroz/github-readme">
+<a href="https://github.com/CauaQroz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CauaQroz&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/CauaQroz">

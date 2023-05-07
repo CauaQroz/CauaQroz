@@ -23,7 +23,7 @@
   
 ##
 
-
+![snake gif](https://github.com/CauaQroz/CauaQroz/blob/output/github-contribution-grid-snake.svg)
 
 
 

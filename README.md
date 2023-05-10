@@ -1,16 +1,6 @@
 ### Ola! Eu sou o Cauã Queiroz
 -🌎 Sou de São Paulo-sp<br>
--🖥️ Estou Estudando Desenvolvimento de Software 
-<div>
-  <a href="https://github.com/CauaQroz/">
-<a href="https://github.com/CauaQroz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CauaQroz&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/CauaQroz">
-  <img height="180" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaQroz&theme=dark" />
-</a>
-</div>
-  
+-🖥️ Estou Estudando Desenvolvimento de Software   
 ##
 <div style="display: inline_block"><br>
   <img aling="center" alt="Cauã-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
